@@ -1,6 +1,6 @@
-package com.example.springwork.controller;
+package com.HIBIKI_6.MahjongHelper.controller;
 
-import com.example.springwork.service.MahjongCalService;
+import com.HIBIKI_6.MahjongHelper.service.MahjongCalService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

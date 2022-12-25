@@ -1,6 +1,6 @@
-package com.example.springwork.service;
+package com.HIBIKI_6.MahjongHelper.service;
 
-import com.example.springwork.utils.MahjongCalUtils;
+import com.HIBIKI_6.MahjongHelper.utils.MahjongCalUtils;
 import org.springframework.stereotype.Service;
 
 @Service

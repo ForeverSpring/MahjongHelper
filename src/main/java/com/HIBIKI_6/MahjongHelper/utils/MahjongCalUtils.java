@@ -1,4 +1,4 @@
-package com.example.springwork.utils;
+package com.HIBIKI_6.MahjongHelper.utils;
 
 import mahjongutils.models.Tile;
 import mahjongutils.shanten.ShantenKt;

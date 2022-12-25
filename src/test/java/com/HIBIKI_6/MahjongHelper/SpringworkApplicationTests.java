@@ -1,10 +1,8 @@
-package com.example.springwork;
+package com.HIBIKI_6.MahjongHelper;
 
-import com.example.springwork.utils.MahjongCalUtils;
+import com.HIBIKI_6.MahjongHelper.utils.MahjongCalUtils;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-
-import java.util.Collections;
 
 @SpringBootTest
 class SpringworkApplicationTests {
