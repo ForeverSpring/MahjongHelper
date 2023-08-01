@@ -18,7 +18,7 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.example.springwork"))
+                .apis(RequestHandlerSelectors.basePackage("com.HIBIKI_6.MahjongHelper.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }
